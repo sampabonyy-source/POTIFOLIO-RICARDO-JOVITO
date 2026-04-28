@@ -42,13 +42,16 @@ https://code.visualstudio.com/
 
 #### 🤖 Inteligência Artificial
 
-| Projeto | Descrição | Link |
-| **SM1 - Corrida do Prompt** | Exploração de técnicas de engenharia de prompt para otimização de respostas em IA generativa. | [Ver Projeto](./sm1-corrida-prompt/) |
-| **SM2 - Classificação Visual** | Desenvolvimento de modelo de classificação de imagens com foco em visão computacional. | [Ver Projeto](./sm2-classificacao-visual/) |
-| **SM3 - Batalha de Modelos** | Comparação entre diferentes modelos de IA e uso de prompts estruturados em XML. | [Ver Projeto](./sm3-batalha-modelos/) |
-| **SM4 - Engenharia Reversa** | Análise e reconstrução de sistemas baseados em IA para entender seu funcionamento interno. | [Ver Projeto](./sm4-engenharia-reversa/) |
-| **SM5 - MVP com IA** | Criação de um produto mínimo viável utilizando IA, do conceito à aplicação prática. | [Ver Projeto](./sm5-mvp-ia/) |
-| **SM7 - IA com Bubble.io** | Desenvolvimento de aplicação utilizando IA integrada à plataforma no-code Bubble.io. | [Ver Projeto](./sm7-bubble-ia/) |
+### 🤖 Projetos com Inteligência Artificial
+
+| Projeto                        | Descrição                                                                                     |                         Link                        |
+| :----------------------------- | :-------------------------------------------------------------------------------------------- | :-------------------------------------------------: |
+| **SM1 - Corrida do Prompt**    | Exploração de técnicas de engenharia de prompt para otimização de respostas em IA generativa. |    [Ver Projeto](./projetos/sm1-corrida-prompt/)    |
+| **SM2 - Classificação Visual** | Desenvolvimento de modelo de classificação de imagens com foco em visão computacional.        | [Ver Projeto](./projetos/sm2-classificacao-visual/) |
+| **SM3 - Batalha de Modelos**   | Comparação entre diferentes modelos de IA e uso de prompts estruturados em XML.               |    [Ver Projeto](./projetos/sm3-batalha-modelos/)   |
+| **SM4 - Engenharia Reversa**   | Análise e evolução de sistemas baseados em IA para compreender seu funcionamento interno.     |  [Ver Projeto](./projetos/sm4-engenharia-reversa/)  |
+| **SM5 - MVP com IA**           | Criação de um produto mínimo viável utilizando IA, do conceito à aplicação prática.           |        [Ver Projeto](./projetos/sm5-mvp-ia/)        |
+| **SM7 - IA com Bubble.io**     | Desenvolvimento de aplicação com IA integrada à plataforma no-code Bubble.io.                 |       [Ver Projeto](./projetos/sm7-ia-bubble/)      |
 
 🏗 Estrutura do Repositório
 
