@@ -11,10 +11,6 @@ Estudante de Análise e Desenvolvimento de Sistemas
 
 [![E-mail](https://img.shields.io/badge/Email-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](sampabonyy@gmail.com)
 
-[![Currículo](https://img.shields.io/badge/Currículo-000000?style=for-the-badge\&logo=read-the-docs)\&logoColorbp=white)]
-(LINK_DO_SEU_CURRICULO)
-
-
 
 👨‍💻 Sobre
 
