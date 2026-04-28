@@ -51,7 +51,7 @@ https://code.visualstudio.com/
 | **SM3 - Batalha de Modelos**   | Comparação entre diferentes modelos de IA e uso de prompts estruturados em XML.               |    [Ver Projeto](./projetos/sm3-batalha-modelos/)   |
 | **SM4 - Engenharia Reversa**   | Análise e evolução de sistemas baseados em IA para compreender seu funcionamento interno.     |  https://github.com/sampabonyy-source/POTIFOLIO-RICARDO-JOVITO/tree/92adc20937ff9ce40cdee2d7cec7e926134397c2/Engenharia%20Reversa |
 | **SM5 - MVP com IA**           | Criação de um produto mínimo viável utilizando IA, do conceito à aplicação prática.           |        https://github.com/sampabonyy-source/POTIFOLIO-RICARDO-JOVITO/tree/44b5e8c7d7171d5ecd5e1085441d6beb7182c384/Do%20Clone%20ao%20Produto%20M%C3%ADnimo%20Vi%C3%A1vel%20(MVP%2B)    |
-| **SM7 - IA com Bubble.io**     | Desenvolvimento de aplicação com IA integrada à plataforma no-code Bubble.io.                 |       [Ver Projeto](./projetos/sm7-ia-bubble/)      |
+| **SM7 - IA com Bubble.io**     | Desenvolvimento de aplicação com IA integrada à plataforma no-code Bubble.io.                 |       [https://github.com/sampabonyy-source/POTIFOLIO-RICARDO-JOVITO/tree/5dfd9cbbbb8a33bbbb10255aed870a82df815d7b/Engenharia%20de%20Software%20e%20IA%20com%20Bubble.io    |
 
 🏗 Estrutura do Repositório
 
