@@ -1,0 +1,13 @@
+https://sampabonyy-52121.bubbleapps.io/version-test/clients?debug_mode=true
+
+
+
+https://bubble.io/page?id=sampabonyy-52121&tab=Data&name=new-quote&type=page
+
+
+
+https://bubble.io/page?id=sampabonyy-52121&tab=Data&name=new-quote&type=page&subtab=App+Data&type_id=client
+
+
+
+https://bubble.io/page?id=sampabonyy-52121&tab=Data&name=new-quote&type=page&subtab=FileManager&type_id=client

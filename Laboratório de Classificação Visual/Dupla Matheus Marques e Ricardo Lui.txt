@@ -1,0 +1,42 @@
+Dupla: Matheus Marques e Ricardo Luiz Jovito
+
+
+
+
+
+
+
+Nossos perfis usados foram cabeça grande e cabeça pequena, nas imagens os 2 perfis tem aparentemente o mesmo tamanho de cabeça, e foi identificados de maneiras diferentes
+
+
+
+
+
+
+
+Memorial de Impacto e Ética
+
+
+
+Mecanismo do Viés:
+
+
+
+Quando eu treino o modelo com imagens apenas de pessoas com cabeça grande ou cabeça pequena, ele aprende a identificar padrões baseados exclusivamente nesses específicos. O modelo assume que qualquer pessoa que não se encaixar nos exemplos será automaticamente da outra categoria. Isso acontece porque o modelo não entende que o tamanho da cabeça não define categorias reais e ignora a diversidade existente no mundo.
+
+
+
+Consequência Social:
+
+
+
+Quando eu testo o modelo com alguém que não segue os padrões que uso, como uma pessoa com cabeça pequena sendo definições como “Cabeça Grande”, eu percebo que o sistema errou completamente. Se isso acontecesse na vida real, uma pessoa poderia se sentir injustiçada ou invisibilizada apenas por não ter o tamanho de cabeça que eu usei nos exemplos. Esse tipo de classificação pode gerar desconforto e afetar a autoestima, a confiança e até as mesmas oportunidades, porque o sistema cria uma ideia distorcida do que é considerado “normal” ou esperado.
+
+
+
+Ação Mitigadora:
+
+
+
+Para reduzir esse impacto, eu incluo uma revisão humana antes de usar o modelo em qualquer situação real. Uma pessoa analisa os dados e verifica se há diversidade suficiente, corrigindo exemplos enviados ou adicionando casos que representam mais variedade. Assim, o modelo não decide sozinho e as pessoas mantêm o controle sobre os resultados. Essa intervenção garante que o modelo seja mais justo e que ninguém seja prejudicado apenas por não se encaixar nos padrões do treinamento.
+

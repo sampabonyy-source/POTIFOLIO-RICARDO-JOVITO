@@ -1,0 +1,14 @@
+1- https://github.com/sampabonyy-source/projeto-em-sala-de-aula-/blob/main/README.md    
+
+https://preview-chat-723d691b-a415-4171-b9fb-080229a646fd.space.z.ai/  resposta
+
+1 -A mudança do "escrever" para o "descrever" exige que o desenvolvedor júnior deixe de ser um executor de sintaxe para se tornar um validador de lógica. O resumo da nova formação foca em duas frentes:
+
+Em vez de decorar comandos, o profissional deve focar em decompor problemas. A competência técnica agora é saber estruturar o raciocínio lógico e entender como os componentes se conectam. Se você não sabe projetar a solução conceitualmente, não saberá dar as instruções corretas para a IA.
+
+
+
+analise
+O desenvolvedor deve atuar como um auditor crítico. A facilidade da IA gera o risco da "aceitação passiva". É indispensável questionar a segurança, a performance e a qualidade do que foi gerado. A habilidade de ler, testar e debugar o código da IA torna-se mais valiosa do que a escrita manual.
+
+Em suma: O valor do engenheiro migra da digitação de código para a curadoria de soluções e o design de sistemas.     2-
