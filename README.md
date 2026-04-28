@@ -46,7 +46,7 @@ https://code.visualstudio.com/
 
 | Projeto                        | Descrição                                                                                     |                         Link                        |
 | :----------------------------- | :-------------------------------------------------------------------------------------------- | :-------------------------------------------------: |
-| **SM1 - Corrida do Prompt**    | Exploração de técnicas de engenharia de prompt para otimização de respostas em IA generativa. |    [Ver Projeto](./projetos/sm1-corrida-prompt/)    |
+| **SM1 - Corrida do Prompt**    | Exploração de técnicas de engenharia de prompt para otimização de respostas em IA generativa. |   https://github.com/sampabonyy-source/POTIFOLIO-RICARDO-JOVITO/tree/ccd8eb8dc13bf56280063211b01d2b8fb2d61e8e/A%20Corrida%20do%20Prompt   |
 | **SM2 - Classificação Visual** | Desenvolvimento de modelo de classificação de imagens com foco em visão computacional.        | [Ver Projeto](./projetos/sm2-classificacao-visual/) |
 | **SM3 - Batalha de Modelos**   | Comparação entre diferentes modelos de IA e uso de prompts estruturados em XML.               |    [Ver Projeto](./projetos/sm3-batalha-modelos/)   |
 | **SM4 - Engenharia Reversa**   | Análise e evolução de sistemas baseados em IA para compreender seu funcionamento interno.     |  [Ver Projeto](./projetos/sm4-engenharia-reversa/)  |
