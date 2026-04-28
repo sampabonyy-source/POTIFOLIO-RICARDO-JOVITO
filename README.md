@@ -33,7 +33,10 @@ Google Gemini
 ![Figma](https://img.shields.io/badge/Figma-000000?style=for-the-badge\&logo=figma\&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge\&logo=postgresql\&logoColor=white)
 ![Balsamiq](https://img.shields.io/badge/Balsamiq-CC0000?style=for-the-badge\&logoColor=white)
-https://code.visualstudio.com/
+
+🌐 Front-end
+![HTML5](https://img.shields.io/badge/HTML5-Markup-orange?logo=html5)
+![CSS3](https://img.shields.io/badge/CSS3-Style-blue?logo=css3)
 
 
 
