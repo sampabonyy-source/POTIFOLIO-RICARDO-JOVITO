@@ -1,6 +1,5 @@
-# POTIFOLIO-RICARDO-JOVITO
-Repositório criado para centralizar e organizar a produção acadêmica e técnica do aluno, funcionando como uma vitrine profissional. Reúne projetos, artigos, protótipos e certificados de forma estruturada, destacando habilidades, experiências e desenvolvimento ao longo da trajetória acadêmica.
-# Ricardo Jovito
+
+Ricardo Jovito
 
 Estudante de Análise e Desenvolvimento de Sistemas
 
@@ -15,7 +14,7 @@ Estudante de Análise e Desenvolvimento de Sistemas
 [![Currículo](https://img.shields.io/badge/Currículo-000000?style=for-the-badge\&logo=read-the-docs)\&logoColorbp=white)]
 (LINK_DO_SEU_CURRICULO)
 
----
+
 
 👨‍💻 Sobre
 
@@ -28,26 +27,32 @@ Atualmente cursando Análise e Desenvolvimento de Sistemas. Tenho interesse em t
 
 
 🛠 Minhas Ferramentas Favoritas
+IA
+ChatGPT 
+Claude 
+Google Gemini 
 
-#### 💻 Tecnologias e Ferramentas
+💻 Tecnologias e Ferramentas
 
 ![Figma](https://img.shields.io/badge/Figma-000000?style=for-the-badge\&logo=figma\&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge\&logo=postgresql\&logoColor=white)
 ![Balsamiq](https://img.shields.io/badge/Balsamiq-CC0000?style=for-the-badge\&logoColor=white)
+https://code.visualstudio.com/
 
-🗄️ Banco de Dados
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge\&logo=postgresql\&logoColor=white)
 
 
 
 📂 Portfólio de Projetos
 
-🗃️ Sistemas
+#### 🤖 Inteligência Artificial
 
-
- 🎨 UX e Usabilidade
-
+| Projeto | Descrição | Link |
+| **SM1 - Corrida do Prompt** | Exploração de técnicas de engenharia de prompt para otimização de respostas em IA generativa. | [Ver Projeto](./sm1-corrida-prompt/) |
+| **SM2 - Classificação Visual** | Desenvolvimento de modelo de classificação de imagens com foco em visão computacional. | [Ver Projeto](./sm2-classificacao-visual/) |
+| **SM3 - Batalha de Modelos** | Comparação entre diferentes modelos de IA e uso de prompts estruturados em XML. | [Ver Projeto](./sm3-batalha-modelos/) |
+| **SM4 - Engenharia Reversa** | Análise e reconstrução de sistemas baseados em IA para entender seu funcionamento interno. | [Ver Projeto](./sm4-engenharia-reversa/) |
+| **SM5 - MVP com IA** | Criação de um produto mínimo viável utilizando IA, do conceito à aplicação prática. | [Ver Projeto](./sm5-mvp-ia/) |
+| **SM7 - IA com Bubble.io** | Desenvolvimento de aplicação utilizando IA integrada à plataforma no-code Bubble.io. | [Ver Projeto](./sm7-bubble-ia/) |
 
 🏗 Estrutura do Repositório
 
